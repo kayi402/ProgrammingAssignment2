@@ -1,4 +1,4 @@
-## My functions can be used to caching the inverse of a matrix
+## My functions can be used to caching the inverse of a matrix. There are 2 functions: makeCacheMatrix and cacheSolve
 
 ## This function creates a special "matrix" object 
 makeCacheMatrix <- function(x = matrix()) {
